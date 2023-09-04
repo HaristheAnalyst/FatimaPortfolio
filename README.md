@@ -1,4 +1,4 @@
 # **FatimaPortfolio**
 Analytics Portfolio
 
-![alt text](image.jpg)
+![alt text](Image/Modern Brand Name Initials Typography Logo (4).png)
