@@ -21,6 +21,9 @@ In this Task I perform following KPIs According to Client Requirements
 •	Demographic info about customers – gender, age range, and if they have partners and dependents
 
 This dashboard provides Janet, the Retention Manager at PhoneNow, with a comprehensive view of customer churn, service usage, demographics, and account information. It empowers her to identify patterns, demographics that might be more prone to churn, and areas for improvement in customer retention strategies. The interactivity and drill-down options enable her to explore data in detail to make data-driven decisions.
+
+![](Image/Task3.png)
+
 	
 # Diversity & Inclusion Gender balance in the executive suite.
 Improving gender balance at the executive management level and fostering diversity and inclusion in the workplace is indeed a complex endeavor that requires a strategic and multifaceted approach. Let's define relevant KPIs for hiring, promotion, performance, and turnover.
@@ -42,4 +45,7 @@ This KPI specifically tracks the promotion rates of women within the organizatio
 This KPI assesses the average performance ratings of employees based on gender. It can reveal any gender-based performance disparities.
 ### % Turnover Men and Women:
 This KPI measures the turnover rate of employees based on gender. High turnover rates for a particular gender can signal retention issues.
+
+![](Image/Task4.png)
+
 
