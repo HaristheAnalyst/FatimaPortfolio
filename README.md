@@ -46,6 +46,6 @@ This KPI assesses the average performance ratings of employees based on gender. 
 ### % Turnover Men and Women:
 This KPI measures the turnover rate of employees based on gender. High turnover rates for a particular gender can signal retention issues.
 
-![](Image/Task4.png)
+![](Image/task4.png)
 
 
