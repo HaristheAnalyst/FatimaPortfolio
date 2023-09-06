@@ -10,7 +10,9 @@ Creating a comprehensive Power BI dashboard for Claire that reflects various rel
 3.speed of answer Agent’s performance quadrant -> 
 4.average handle time (talk duration) vs calls answered
 The above dashboard provides Claire with a holistic view of call center performance, agent productivity,and customer satisfaction. It enables her to identify trends, areas for improvement, and top-performing agents.he interactivity and drill-down options empower her to explore data in detail, making informed decisions to optimize call center operations.
+
 ![](Image/Task2.png)
+
 # Customer Retention Customer demographics and insights.
 In this Task I perform following KPIs According to Client Requirements
 •	Customers who left within the last month
