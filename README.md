@@ -8,16 +8,16 @@ Creating a comprehensive Power BI dashboard for Claire that reflects various rel
 2. Calls by time Average 
 3. Speed of answer Agent’s performance quadrant -> 
 4. Average handle time (talk duration) vs. calls answered
-The above dashboard provides Claire with a holistic view of call center performance, agent productivity, and customer satisfaction. It enables her to identify trends, areas for improvement, and top-performing agents. the interactivity and drill-down options empower her to explore data in detail, making informed decisions to optimize call center operations.
+The above dashboard provides Claire with a holistic view of call center performance, agent productivity, and customer satisfaction. It enables her to identify trends, areas for improvement, and top-performing agents. The interactivity and drill-down options empower her to explore data in detail, making informed decisions to optimize call center operations.
 
 ![](Image/Task2.png)
 
 # Customer Retention Customer demographics and insights.
 In this Task, I perform the following KPIs According to Client Requirements
-•	Customers who left within the last month
-•	Services each customer has signed up for phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
-•	Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges and number of tickets opened in the categories administrative and technical
-•	Demographic info about customers – gender, age range, and if they have partners and dependents
+1. Customers who left within the last month
+2. Services each customer has signed up for phone, multiple lines, internet, online security, online backup, device protection, tech support, and streaming TV and movies
+3. Customer account information: how long as a customer, contract, payment method, paperless billing, monthly charges, total charges, and number of tickets opened in the categories administrative and technical
+4. Demographic info about customers – gender, age range, and if they have partners and dependents
 
 This dashboard provides Janet, the Retention Manager at PhoneNow, with a comprehensive view of customer churn, service usage, demographics, and account information. It empowers her to identify patterns, demographics that might be more prone to churn, and areas for improvement in customer retention strategies. The interactivity and drill-down options enable her to explore data in detail to make data-driven decisions.
 
