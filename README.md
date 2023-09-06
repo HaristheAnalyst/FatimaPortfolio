@@ -1,7 +1,6 @@
 # **FatimaPortfolio**
-Analytics Portfolio
+## Analytics Portfolio
 
-![](Image/Modern Brand Name Initials Typography Logo (4).png)
 
 # Call Centre Trends Visualising customer and agent behaviour.
 Creating a comprehensive Power BI dashboard for Claire that reflects various relevant Key Performance Indicators (KPIs) and metrics can provide a clear overview of performance. Below, I'll outline the structure of the dashboard, including potential KPIs and metrics:
@@ -47,5 +46,8 @@ This KPI assesses the average performance ratings of employees based on gender. 
 This KPI measures the turnover rate of employees based on gender. High turnover rates for a particular gender can signal retention issues.
 
 ![](Image/task4.png)
+
+
+![](Image/task4 part2.png)
 
 
